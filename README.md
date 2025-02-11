@@ -155,11 +155,11 @@ We welcome contributions to enhance the project. To contribute:
 
 5. Open a Pull Request detailing your changes.
 
-###Contributors:
--Tom Hagit
--Austin French
--Jaylen Guevara-Kirksey Bey
--Asif Mahmud
+### Contributors:
+- Tom Hagit
+- Austin French
+- Jaylen Guevara-Kirksey Bey
+- Asif Mahmud
 
 ## Acknowledgments
 
