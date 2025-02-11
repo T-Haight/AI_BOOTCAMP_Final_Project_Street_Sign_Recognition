@@ -155,6 +155,12 @@ We welcome contributions to enhance the project. To contribute:
 
 5. Open a Pull Request detailing your changes.
 
+###Contributors:
+Tom Hagit
+Austin French
+Jaylen Guevara-Kirksey Bey
+Asif Mahmud
+
 ## Acknowledgments
 
 We extend our gratitude to the contributors of the Road Sign Detection dataset on Kaggle (https://www.kaggle.com/datasets/andrewmvd/road-sign-detection) for providing the foundational data for this project. Additionally, we thank the open-source community for developing the tools and frameworks that made this project possible.
