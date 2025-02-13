@@ -68,16 +68,15 @@ Our approach involved the following stages:
 We implemented the following models:
 
 - **Baseline CNN:** A simple CNN architecture to establish a performance baseline.
-- **YOLOv3:** An advanced object detection model known for its speed and accuracy, suitable for real-time applications.
 
 ## Results
 
 Our final model achieved the following performance metrics:
 
-- **Precision:** 0.85
-- **Recall:** 0.80
-- **F1-Score:** 0.825
-- **mAP:** 0.78
+- **Precision:** 0.83
+- **Recall:** 0.83
+- **F1-Score:** 0.82
+- **mAP:** 0.83
 
 These results indicate that the model performs well in detecting and classifying road signs, with a good balance between precision and recall.
 
