@@ -177,4 +177,4 @@ cython_debug/
 *.xml
 *.png
 *.pkl
-*.keras
+.vscode/settings.json
