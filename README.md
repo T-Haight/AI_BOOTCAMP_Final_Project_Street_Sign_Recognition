@@ -99,34 +99,36 @@ To run the project locally:
    ```
 
 2. **Install Dependencies:**  
-   Ensure you have Python 3.8 or later. Install the required packages:
+   Ensure you have Python 3.10 or later. Install the required packages:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Download the Dataset:**  
-   Download the dataset from Kaggle and extract it into the `data/` directory.
+3. **Acuire the Data:**  
+    ```bash
+   jupyter execute Data_Mining.ipynb
+   ```
 
 4. **Preprocess the Data:**  
    Run the preprocessing script to prepare the data for training:
 
    ```bash
-   python preprocess.py
+   jupyter execute Data_Preprocessing.ipynb
    ```
 
 5. **Train the Model:**  
    Execute the training script:
 
    ```bash
-   python train.py
+      jupyter execute Best_Model.ipynb
    ```
 
-6. **Evaluate the Model:**  
+6. **Run the Gradio App:**  
    After training, evaluate the model’s performance:
 
    ```bash
-   python evaluate.py
+      jupyter execute gradio_app.ipynb
    ```
 
 ## Contributing
