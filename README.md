@@ -95,7 +95,7 @@ To run the project locally:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/road-sign-detection.git
-   cd road-sign-detection
+   cd AI_BOOTCAMP_Final_Project_Street_Sign_Recognition
    ```
 
 2. **Install Dependencies:**  
@@ -157,7 +157,7 @@ We welcome contributions to enhance the project. To contribute:
 5. Open a Pull Request detailing your changes.
 
 ### Contributors:
-- Tom Hagit
+- Tom Haight
 - Austin French
 - Jaylen Guevara-Kirksey Bey
 - Asif Mahmud
