@@ -5,6 +5,7 @@ Keras_Preprocessing
 keras-tuner
 matplotlib
 numpy
+opencv-python
 pandas
 pickleshare
 scikit-learn
