@@ -1,0 +1,12 @@
+gradio
+kagglehub
+keras
+Keras_Preprocessing
+keras-tuner
+matplotlib
+numpy
+pandas
+pickleshare
+scikit-learn
+tensorflow
+tf_keras

@@ -177,3 +177,6 @@ cython_debug/
 *.xml
 *.png
 *.pkl
+model.keras
+traffic_signs_model4.keras
+.vscode/settings.json
